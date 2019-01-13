@@ -1,0 +1,28 @@
+{
+    "dir": "ltr",
+    "lang": "en-US",
+    "name": "Premium WordPress Themes & Plugins",
+    "scope": "\/",
+    "display": "Standalone",
+    "start_url": "http://trendymonster.com",
+    "short_name": "Premium WordPress Themes & Plugins",
+    "theme_color": "transparent",
+    "description": "The Best Free & Premium WordPress themes for 2018. Get complete access for only $69. Theme updates and support included.",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": "",
+    "prefer_related_applications": "false",
+    "url": "http://trendymonster.com",
+    "icons": [
+        {
+            "src": "\/pwa-icons\/192image.jpg",
+            "type": "image\/jpg",
+            "sizes": "192x192"
+        },
+        {
+            "src": "\/pwa-icons\/512image.jpg",
+            "type": "image\/jpg",
+            "sizes": "512x512"
+        }
+    ]
+}

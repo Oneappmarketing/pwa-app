@@ -1,0 +1,44 @@
+/*Custom Styles*/
+
+body{
+    background-color:red;
+    color:white;
+}
+
+button.btn-install {
+  background-color: green;
+  border: none;
+  color: white;
+  padding: 20px 20px;
+  border-radius: 10px;
+  font-size: 20px;
+  margin-top: 50px;
+  margin: auto;
+  display: block;
+}
+
+
+
+  /*Responsive Screens 450px*/
+
+   @media screen and (max-height: 450px) {
+    .pwa-overlay a {
+      font-size: 20px;
+      color: #fff;
+    }
+
+    .pwa-overlay .closebtn {
+      font-size: 40px;
+      top: 15px;
+      right: 35px;
+    }
+
+  }  
+
+
+
+
+
+
+
+

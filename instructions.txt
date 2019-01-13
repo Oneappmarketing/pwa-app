@@ -1,0 +1,24 @@
+# Configuring the manifest in your site
+
+1. Upload all files to root of your website
+
+2. Copy following lines of code to your <head> tag
+
+
+<link rel="manifest" href="manifest.json"></link>
+<script src="https://www.gstatic.com/firebasejs/5.0.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/5.0.0/firebase-messaging.js"></script>
+<script type="text/javascript" src="pwa-custom.js"></script>
+<script type="text/javascript" src="manup.js"></script>
+<script type="text/javascript" src="pwa-sw-register.js"></script>
+
+
+#Configuring the manifest in your Shopify site
+  Check this link:- http://app.progressiveappsbuilder.com/instructions
+
+
+  *Service Worker is Initalised success
+  *We are Offline -> success on offline
+  * Caching files -> pwa-sw-v2.js  success cached all files offline support
+  *Add to HomeScreen
+  * Push Notification are not working*/
